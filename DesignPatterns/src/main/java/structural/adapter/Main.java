@@ -1,5 +1,10 @@
 package structural.adapter;
 
+
+/**
+ *  Usage:
+ *  When there is legacy system, and we want to reuse it and adapt it to new functionality.
+ */
 public class Main {
 
     public static void main(String[] args) {
