@@ -3,8 +3,7 @@ package structural.flyweight;
 /**
  *  Usage:
  *  Stateless objects, reusable.
- *  examples: Java String pool
- *  https://www.javatpoint.com/string-pool-in-java
+ *  examples: <a href="https://www.javatpoint.com/string-pool-in-java">Java String pool</a>
  */
 public class Main {
 
